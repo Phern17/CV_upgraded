@@ -81,3 +81,7 @@ a {
     width: 60px;
     height: 60px;
 }
+
+.bottom-container p {
+    font-family: 'Dancing Script', cursive;
+}

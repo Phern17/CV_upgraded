@@ -17,6 +17,10 @@ h1, h3 {
     font-family: 'Caveat', cursive;
 }
 
+h2 {
+    font-size: 45px;
+}
+
 p {
     color: white;
     font-size: 30px;
